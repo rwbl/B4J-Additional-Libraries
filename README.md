@@ -10,8 +10,8 @@ _Note_
 The libraries are not maintained anymore and kept for reference.
 
 ## Dialogs & Views
-*[jRLDialogsX](https://www.b4x.com/android/forum/threads/jrldialogsx-dialogs-library.52416/#content).
-*[jRLViews](https://www.b4x.com/android/forum/threads/jrlviews-custom-views.71994/).
+* [jRLDialogsX](https://www.b4x.com/android/forum/threads/jrldialogsx-dialogs-library.52416/#content)
+* [jRLViews](https://www.b4x.com/android/forum/threads/jrlviews-custom-views.71994/)
 
 ## Modules Raspberry Pi
 ### jDHT
