@@ -1,9 +1,10 @@
 # B4J-Additional-Libraries
-Referencies to Open Source Additional Libraries developed for [B4J](https://www.b4x.com/b4j.html) development tool for native Arduino and ESP programs by [Anywhere Software](https://www.b4x.com).
+Referencies to publications of additional libraries developed for the [B4J](https://www.b4x.com/b4j.html) development tool by [Anywhere Software](https://www.b4x.com).
 
 The libraries are 
 * developed for personal use only,
-* either wrapped from or build upon Open Source Java libraries or created new using Java or B4X language.
+* either wrapped from or build upon Open Source Java libraries or created new using Java or B4X language,
+* Open Source.
 
 _Note_
 The libraries are not maintained anymore and kept for reference.
