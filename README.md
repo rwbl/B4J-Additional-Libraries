@@ -9,20 +9,20 @@ The libraries are
 _Note_
 The libraries are not maintained anymore and kept for reference.
 
-## Additional Libraries
-
+## Dialogs & Views
 ### jRLDialogsX
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/jrldialogsx-dialogs-library.52416/#content).
 ### jRLViews
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/jrlviews-custom-views.71994/).
 
-### jDHT (Connected to the Raspberry Pi)
+## Modules Raspberry Pi
+### jDHT
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/raspberry-pi-jdht-digital-output-relative-humidity-temperature-sensors.76975/#content).
-### jBH1750 (Connected to the Raspberry Pi)
+### jBH1750
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/raspberry-pi-jbh1750-ambient-light-sensor.76980/#content).
-### jBMP180 (Connected to the Raspberry Pi)
+### jBMP180
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/raspberry-pi-jbmp180-barometric-pressure-temperature-altitude-sensor.76814/#content).
-### jTM1637 (Connected to the Raspberry Pi)
+### jTM1637
 Published [B4J Forum](https://www.b4x.com/android/forum/threads/raspberry-pi-jtm1637-4-digits-display.76722/#content).
 
 ## Credits
