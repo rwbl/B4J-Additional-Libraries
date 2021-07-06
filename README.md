@@ -1,5 +1,5 @@
 # B4J-Additional-Libraries
-Referencies to publications of additional libraries developed for the [B4J](https://www.b4x.com/b4j.html) development tool by [Anywhere Software](https://www.b4x.com).
+Referencies to publications of additional libraries developed for the [B4J](https://www.b4x.com/b4j.html) RAD development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
 
 The libraries are 
 * developed for personal use only,
