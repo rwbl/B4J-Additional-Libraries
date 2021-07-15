@@ -2,7 +2,7 @@
 Referencies to forum publications of additional libraries developed for the [B4J](https://www.b4x.com/b4j.html) - RAD development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
 
 The **libraries** are 
-* developed for personal use only,
+* developed with Java JDK 1.8.0_291 for personal use only,
 * either wrapped from or build upon Open Source Java libraries or created new using Java or B4X language,
 * Open Source.
 
