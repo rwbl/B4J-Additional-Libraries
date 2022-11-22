@@ -7,7 +7,7 @@ The **libraries** are
 * Open Source.
 
 _Note_
-The libraries are not maintained anymore and kept for reference.
+Some of the libraries are not maintained anymore and kept for reference.
 
 ## Dialogs and Views
 * [jRLDialogsX](https://www.b4x.com/android/forum/threads/jrldialogsx-dialogs-library.52416/#content)
